@@ -115,7 +115,7 @@ const DEFAULTS: DojoShinobuProps = {
     galleryLabel: "Galeria",
     galleryTitle: "Imagenes que transmiten practica, cuidado y familia.",
     galleryText:
-        "La landing usa fotografia calida de karate y artes marciales para reforzar confianza desde el primer vistazo.",
+        "",
     galleryOneTitle: "Clase guiada",
     galleryOneTag: "Tecnica y seguimiento",
     galleryTwoTitle: "Entrenamiento infantil",
