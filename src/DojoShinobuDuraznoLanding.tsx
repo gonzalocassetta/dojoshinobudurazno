@@ -92,19 +92,19 @@ const DEFAULTS: DojoShinobuProps = {
     introLabel: "Un lugar para crecer",
     introTitle: "Entrenar karate tambien es aprender a estar mejor.",
     introText:
-        "Dojo Shinobu Durazno propone una practica seria, cercana y humana. La clase acompana el proceso de cada alumno, con exigencia progresiva, cuidado en la tecnica y un ambiente donde las familias se sienten tranquilas.",
+        "Dojo Shinobu Durazno propone una practica seria, cercana y humana. La clase acompaña el proceso de cada alumno, con exigencia progresiva, cuidado en la tecnica y un ambiente donde las familias se sienten tranquilas.",
     valuesText:
         "Confianza, Respeto, Constancia, Autocontrol, Comunidad, Espiritu fuerte",
     flagTitle: "Orgullo local",
     flagText: "Karate Kyokushin-Kan en Durazno",
     valuesLabel: "Valores del dojo",
-    valuesTitle: "Firmeza, respeto y companerismo.",
+    valuesTitle: "Firmeza, respeto y compañerismo.",
     pillarOneTitle: "Disciplina con respeto",
     pillarOneText:
-        "Cada entrenamiento cuida la tecnica, el caracter y el trato entre companeros.",
+        "Cada entrenamiento cuida la tecnica, el caracter y el trato entre compañeros.",
     pillarTwoTitle: "Ambiente familiar",
     pillarTwoText:
-        "Un espacio cercano para ninos, jovenes y adultos que buscan aprender con confianza.",
+        "Un espacio cercano para niños, jovenes y adultos que buscan aprender con confianza.",
     pillarThreeTitle: "Karate tradicional",
     pillarThreeText:
         "Kyokushin-Kan con foco en perseverancia, autocontrol, humildad y superacion.",
@@ -119,7 +119,7 @@ const DEFAULTS: DojoShinobuProps = {
     galleryOneTitle: "Clase guiada",
     galleryOneTag: "Tecnica y seguimiento",
     galleryTwoTitle: "Entrenamiento infantil",
-    galleryTwoTag: "Disciplina desde pequenos",
+    galleryTwoTag: "Disciplina desde pequeños",
     galleryThreeTitle: "Aprendizaje cercano",
     galleryThreeTag: "Confianza alumno-sensei",
     contactLabel: "Contacto",
