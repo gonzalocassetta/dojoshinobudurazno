@@ -101,31 +101,31 @@ const DEFAULTS: DojoShinobuProps = {
     valuesTitle: "Firmeza, respeto y compañerismo.",
     pillarOneTitle: "Disciplina con respeto",
     pillarOneText:
-        "Cada entrenamiento cuida la tecnica, el caracter y el trato entre compañeros.",
+        "Cada entrenamiento cuida la técnica, el carácter y el trato entre compañeros.",
     pillarTwoTitle: "Ambiente familiar",
     pillarTwoText:
-        "Un espacio cercano para niños, jovenes y adultos que buscan aprender con confianza.",
+        "Un espacio cercano para niños, jóvenes y adultos que buscan aprender con confianza.",
     pillarThreeTitle: "Karate tradicional",
     pillarThreeText:
-        "Kyokushin-Kan con foco en perseverancia, autocontrol, humildad y superacion.",
-    senseiLabel: "Direccion tecnica",
+        "Kyokushin-Kan con foco en perseverancia, autocontrol, humildad y superación.",
+    senseiLabel: "Dirección técnica",
     senseiText:
-        "Una guia clara y respetuosa cambia la forma en que una persona se anima a aprender. El dojo transmite seguridad porque combina experiencia, cercania y una estructura de entrenamiento pensada para progresar paso a paso.",
+        "Una guía clara y respetuosa cambia la forma en que una persona se anima a aprender. El dojo transmite seguridad porque combina experiencia, cercanía y una estructura de entrenamiento pensada para progresar paso a paso.",
     senseiCta: "Consultar horarios y clases",
     galleryLabel: "Galeria",
-    galleryTitle: "Imagenes que transmiten practica, cuidado y familia.",
+    galleryTitle: "Imágenes que transmiten practica, cuidado y familia.",
     galleryText:
         "",
     galleryOneTitle: "Clase guiada",
-    galleryOneTag: "Tecnica y seguimiento",
+    galleryOneTag: "Técnica y seguimiento",
     galleryTwoTitle: "Entrenamiento infantil",
     galleryTwoTag: "Disciplina desde pequeños",
     galleryThreeTitle: "Aprendizaje cercano",
     galleryThreeTag: "Confianza alumno-sensei",
     contactLabel: "Contacto",
-    contactTitle: "Sumate al dojo o consulta por clases.",
+    contactTitle: "Sumate al dojo o consultá por clases.",
     contactText:
-        "Escribi por correo o visita las redes para conocer mas de la actividad de Dojo Shinobu Durazno.",
+        "Escribí por correo o visita las redes para conocer mas de la actividad de Dojo Shinobu Durazno.",
     footerCredit: "Hecho por Gonzalo DevTeam",
     instagramUrl:
         "https://www.instagram.com/dojoshinobu_durazno?brid=YWdncwG1AWDoNlnyQ6R3QqDAqcBZ",
