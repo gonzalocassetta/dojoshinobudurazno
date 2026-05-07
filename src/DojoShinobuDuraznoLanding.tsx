@@ -69,7 +69,7 @@ type DojoShinobuProps = {
 }
 
 const DEFAULTS: DojoShinobuProps = {
-    logoImage: "",
+    logoImage: "https://i.imgur.com/NppIw9o.jpeg",
     brand: "Dojo Shinobu Durazno",
     discipline: "Kyokushin-Kan Karate",
     sensei: "Sensei Roberto Pereira Agosti",
@@ -135,11 +135,11 @@ const DEFAULTS: DojoShinobuProps = {
     heroImage:
         "https://images.pexels.com/photos/8042007/pexels-photo-8042007.jpeg?auto=compress&cs=tinysrgb&w=1900",
     senseiImage:
-        "https://images.pexels.com/photos/7991195/pexels-photo-7991195.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "https://i.imgur.com/PFhC3kr.jpeg?auto=compress&cs=tinysrgb&w=1200",
     kidsImage:
-        "https://images.pexels.com/photos/7988769/pexels-photo-7988769.jpeg?auto=compress&cs=tinysrgb&w=1300",
+        "https://i.imgur.com/9ITpUv5.jpeg?auto=compress&cs=tinysrgb&w=1300",
     familyImage:
-        "https://images.pexels.com/photos/8041999/pexels-photo-8041999.jpeg?auto=compress&cs=tinysrgb&w=1300",
+        "https://i.imgur.com/BsqHPlz.jpeg?auto=compress&cs=tinysrgb&w=1300",
     flagImage:
         "https://images.pexels.com/photos/21404692/pexels-photo-21404692.jpeg?auto=compress&cs=tinysrgb&w=1200",
     backgroundColor: "#fffaf4",
